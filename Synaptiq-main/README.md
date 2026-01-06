@@ -3,6 +3,7 @@
 Synaptiq is a unified life management platform that integrates education and wellness into a single cloud-based system to help users manage productivity, routines, and personal growth effectively.
 
 🔹 Core Modules
+
 📊 Dashboard
 
 Centralized overview of daily tasks, study progress, habits, and sleep insights
